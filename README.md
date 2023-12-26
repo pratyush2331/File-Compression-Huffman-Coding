@@ -17,3 +17,12 @@ The purpose of this project is to implement Huffman Coding in [programming langu
 4. **Compression:** Replace the original characters with their corresponding Huffman codes to compress the data.
 
 5. **Decompression:** Reconstruct the original data by traversing the Huffman Tree using the encoded data.
+
+## Tech Stack Used : 
+- HTML
+- CSS
+- JavaScript
+
+> NOTE : 
+> I built this as a part of project component 
+> under Course name - Data Structures and Algorithms.

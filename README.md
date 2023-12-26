@@ -25,6 +25,8 @@ The purpose of this project is to implement Huffman Coding in [programming langu
 - CSS
 - JavaScript
 
+![Screenshot of project](image.png)
+
 > NOTE : 
 > I built this as a part of project component 
 > under Course name - Data Structures and Algorithms.

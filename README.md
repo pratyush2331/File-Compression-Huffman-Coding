@@ -6,7 +6,7 @@
 Huffman Coding is a compression algorithm used to reduce the size of data files by efficiently encoding characters. It is widely used in applications where data compression is crucial, such as in file compression utilities and network protocols.
 
 ## Purpose
-The purpose of this project is to implement Huffman Coding in [programming language] for educational and practical use. The algorithm assigns variable-length codes to input characters, with shorter codes given to more frequent characters. This allows for efficient compression and decompression of data.
+The purpose of this project is to implement Huffman Coding Algorithm in JavScript and front-end in HTML & CSS for educational and practical use. The algorithm assigns variable-length codes to input characters, with shorter codes given to more frequent characters. This allows for efficient compression and decompression of data.
 
 ## How Huffman Coding Works
 

@@ -1,3 +1,5 @@
+#prj
+
 # Huffmann Coding
 
 ## [Live-Link](https://pratyush2331.github.io/File-Compression-Huffman-Coding/)
